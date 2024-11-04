@@ -93,3 +93,10 @@
     padding: 20px;
     color: #636e72;
   }
+ footer {
+    text-align: center;
+    padding: 20px;
+    color: #636e72;
+    position: fixed;
+    width: 100%;
+  }
